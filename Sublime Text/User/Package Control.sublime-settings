@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML Boilerplate",
+		"Jinja2",
+		"Markdown Preview",
+		"SideBarEnhancements",
+		"Stylus",
+		"SyncedSideBar",
+		"Syntax Highlighting for Sass",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}
